@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: b6d7ff627a8f5f64da24a966aa0b2f71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Viking_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6dbffa5b0bc9146a90dd998db64cb5
+      internalID: -1250493778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 208
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f115463e4c8b2b45b0ef6f9e6a7d441
+      internalID: -1597197213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 209
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf17c56e39af1479d89da9e90329db
+      internalID: 1729915737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 209
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134d5968e3da5a46a88a9d56601e40f
+      internalID: 1421728984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 209
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff606960bb5d30a49a5f120bef4d2b45
+      internalID: -294217741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 54
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b754675274ca4a81b0be241e1df94
+      internalID: 799931471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132274cf46a6b04a85ebac484a228d6
+      internalID: 946742925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 52
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc127732571534c48bdc6cbeede514ac
+      internalID: -1624110825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 52
+        width: 87
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b31feb4932e644f9b596f990959358
+      internalID: -111166439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Viking_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 53
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c4166e5a058f645b4e79d7ae2ab883
+      internalID: -367633876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 65.5, y: -5.5}
+      - {x: 50.5, y: -1.5}
+      - {x: 35.5, y: -1.5}
+      - {x: 29.5, y: -9.5}
+      - {x: 25.5, y: -26.5}
+      - {x: 8.5, y: -1.5}
+      - {x: -9.5, y: -1.5}
+      - {x: -34.5, y: -30.5}
+      - {x: -34.5, y: -124.5}
+      - {x: -32.5, y: -126.5}
+      - {x: 41.5, y: -126.5}
+      - {x: 82.5, y: -41.5}
+      - {x: 82.5, y: -24.5}
+    - - {x: 113.5, y: 20.5}
+      - {x: 80.5, y: -16.5}
+      - {x: 80.5, y: -126.5}
+      - {x: 156.5, y: -126.5}
+      - {x: 171.5, y: -81.5}
+      - {x: 171.5, y: 20.5}
+    - - {x: -70.5, y: -34.5}
+      - {x: -98.5, y: -50.5}
+      - {x: -111.5, y: -19.5}
+      - {x: -115.5, y: -14.5}
+      - {x: -153.5, y: -14.5}
+      - {x: -170.5, y: -35.5}
+      - {x: -170.5, y: -122.5}
+      - {x: -164.5, y: -125.5}
+      - {x: -95.5, y: -125.5}
+      - {x: -48.5, y: -84.5}
+      - {x: -48.5, y: -64.5}
+      - {x: -56.5, y: -51.5}
+    - - {x: 209.5, y: -10.5}
+      - {x: 180.5, y: -51.5}
+      - {x: 180.5, y: -90.5}
+      - {x: 190.5, y: -125.5}
+      - {x: 316.5, y: -125.5}
+      - {x: 316.5, y: -41.5}
+      - {x: 301.5, y: -10.5}
+    - - {x: -278.5, y: -13.5}
+      - {x: -305.5, y: -96.5}
+      - {x: -305.5, y: -118.5}
+      - {x: -297.5, y: -124.5}
+      - {x: -231.5, y: -124.5}
+      - {x: -181.5, y: -112.5}
+      - {x: -181.5, y: -57.5}
+      - {x: -221.5, y: -13.5}
+    - - {x: 112.5, y: -111.5}
+      - {x: 113.5, y: -110.5}
+      - {x: 115.5, y: -111.5}
+      - {x: 115.5, y: -116.5}
+      - {x: 112.5, y: -116.5}
+    - - {x: -128.5, y: 121.5}
+      - {x: -162.5, y: 121.5}
+      - {x: -173.5, y: 106.5}
+      - {x: -173.5, y: 53.5}
+      - {x: -163.5, y: 29.5}
+      - {x: -116.5, y: 29.5}
+      - {x: -107.5, y: 46.5}
+      - {x: -107.5, y: 96.5}
+      - {x: -108.5, y: 111.5}
+    - - {x: -238.5, y: 121.5}
+      - {x: -267.5, y: 121.5}
+      - {x: -278.5, y: 110.5}
+      - {x: -278.5, y: 51.5}
+      - {x: -272.5, y: 30.5}
+      - {x: -225.5, y: 30.5}
+      - {x: -222.5, y: 58.5}
+      - {x: -222.5, y: 93.5}
+      - {x: -234.5, y: 120.5}
+    - - {x: 12.5, y: 35.5}
+      - {x: 20.5, y: 44.5}
+      - {x: 20.5, y: 98.5}
+      - {x: -4.5, y: 121.5}
+      - {x: -52.5, y: 121.5}
+      - {x: -60.5, y: 107.5}
+      - {x: -60.5, y: 40.5}
+      - {x: -46.5, y: 30.5}
+      - {x: 7.5, y: 30.5}
+    - - {x: 114.5, y: 121.5}
+      - {x: 86.5, y: 121.5}
+      - {x: 60.5, y: 92.5}
+      - {x: 60.5, y: 36.5}
+      - {x: 72.5, y: 30.5}
+      - {x: 136.5, y: 30.5}
+      - {x: 142.5, y: 34.5}
+      - {x: 142.5, y: 61.5}
+      - {x: 138.5, y: 85.5}
+    - - {x: 208.5, y: 121.5}
+      - {x: 177.5, y: 102.5}
+      - {x: 177.5, y: 37.5}
+      - {x: 179.5, y: 30.5}
+      - {x: 264.5, y: 30.5}
+      - {x: 264.5, y: 98.5}
+      - {x: 244.5, y: 121.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Viking_0: -1250493778
+      Viking_1: -1597197213
+      Viking_2: 1729915737
+      Viking_3: 1421728984
+      Viking_4: -294217741
+      Viking_5: 799931471
+      Viking_6: 946742925
+      Viking_7: -1624110825
+      Viking_8: -111166439
+      Viking_9: -367633876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
